@@ -6,7 +6,7 @@ Detect AI-generated (“deepfake”) tweets using NLP techniques and a Django-ba
 
 ## 📌 Dataset
 - Training data: [Deepfake Tweets Dataset](https://github.com/tizfa/tweepfake_deepfake_text_detection/blob/master/data/splits/train.csv)  
-*(Please download from the source — not included in this repo.)*
+
 
 ---
 
@@ -37,8 +37,8 @@ Open the shown URL in your browser (e.g., http://127.0.0.1:8000).
 
 ### 📸 Screenshots
 ### Example Tweet
-![Example Tweet](images/example_tweet.png)
+![Example Tweet](images/Example_Tweet.png)
 
 ### Output Screen
-![Output screen](images/output.png)
+![Output screen](images/Output.png)
 
